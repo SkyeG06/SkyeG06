@@ -2,6 +2,8 @@
 ### Languages
 - C#
 - C++
+- GLSL (Sort of)
+- -Python
 - Lua
 
 ### Projects
