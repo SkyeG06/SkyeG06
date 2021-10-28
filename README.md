@@ -3,7 +3,7 @@
 - C#
 - C++
 - GLSL (Sort of)
-- -Python
+- Python
 - Lua
 
 ### Projects
