@@ -1,8 +1,8 @@
-# **Welcome to my profile, I'm Skye**
-### Languages
-- C#
+# **Welcome to my profile, my name isSkye**
+### Languages I can use
 - C++
-- GLSL (Sort of)
+- C
+- GLSL (Shaders)
 - Python
 - Lua
 
@@ -12,6 +12,6 @@
 ---
                                                                                                                                                                                                                                                                       
 ### About me
-**I'm a young developer, 15 and female. Most of my free time is spent working on random project I feel like working on, usually in either C/++ or C#, but I'm proficient in Python and Lua also. A lot of my projects are modding related but I've started to branch out into other areas like graphics programming using OpenGL and C++.
-It would mean a lot to me if you'd stick around and maybe check out some of the projects I am / have been involved with! <3**
+**I write code that is mostly oriented around game development and graphics. I enjoy reverse engineering and writing mods also.
+ I am a passionate programmer, I first learned how to use the scripting language Lua when I was 11, I prefer to work with a team of developers with a clear defined goal as I struggle to think up new projects, so don't hesitate to reach out if you'd like me to help out with a project as I'm always eager to start working on something.**
 
