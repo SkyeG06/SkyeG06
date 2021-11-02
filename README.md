@@ -6,6 +6,12 @@
 - Python
 - Lua
 
+### Preferred IDEs/Text Editors
+- Microsoft Visual Studio
+- Monodevelop
+- Code::Blocks
+- Visual Studio Code
+
 ### Projects
 - [Shadows Of Abaddon](https://forums.terraria.org/index.php?threads/shadows-of-abaddon-mod.46605/), a large content mod for Terraria
 ---
