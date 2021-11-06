@@ -1,4 +1,4 @@
-# **Welcome to my profile, my name isSkye**
+# **Welcome to my profile, my name is Skye**
 ### Languages I can use
 - C++
 - C
