@@ -1,9 +1,9 @@
 # **Welcome to my profile, my name is Skye**
 ### Languages
-- C++
-- C#
-- Python
-- Lua
+- C, C++
+- x86_64 Assembly (NASM)
+- C#, Java
+- Lua, Bash, Python
 
 ### Preferred IDEs/Text Editors
 - Microsoft Visual Studio
