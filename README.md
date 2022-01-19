@@ -20,5 +20,5 @@
 
 
 ### About this account
-**Here, you will find links to projects I am or have been involved in, as well as my repositories that represent my portfolio.**
+**Here, you will find links to projects I am or have been involved in, as well as my repositories that may represent my portfolio or/and personal projects.**
 
